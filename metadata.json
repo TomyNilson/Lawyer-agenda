@@ -1,0 +1,6 @@
+{
+  "name": "مفكرة المحامي",
+  "description": "تطبيق قانوني متكامل لإدارة القضايا، الجلسات، التنبيهات، الموكلين، والمستندات بأمان مع حماية بكلمة مرور ونسخ احتياطي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
